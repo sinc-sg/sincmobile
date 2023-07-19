@@ -1,2 +1,1 @@
-# sincmobile
- redirection to here when on mobile
+# sinc.github.io
